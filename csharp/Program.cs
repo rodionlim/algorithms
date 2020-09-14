@@ -1,5 +1,4 @@
 ﻿using System;
-using InsertionSort;
 
 class Program
 {
