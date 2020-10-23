@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLTree", "AVLTree\AVLTree.csproj", "{6768FC46-D301-493A-A6B4-FCAF5F639C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6768FC46-D301-493A-A6B4-FCAF5F639C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6768FC46-D301-493A-A6B4-FCAF5F639C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6768FC46-D301-493A-A6B4-FCAF5F639C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6768FC46-D301-493A-A6B4-FCAF5F639C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1459216D-3605-4098-AA71-63D6740DB5D5}
+	EndGlobalSection
+EndGlobal
